@@ -5,3 +5,4 @@ The command line for git :
 4. git commit -m
 5. git log
 6. git restore
+7. git revert
