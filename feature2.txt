@@ -1,1 +1,2 @@
 This isanother feature of git 2
+The developer added some chages to feature 2 :dev2
